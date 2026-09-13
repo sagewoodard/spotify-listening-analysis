@@ -1,0 +1,98 @@
+time_range,rank,artist_name,spotify_id,spotify_uri,spotify_url
+short_term,1,Bad Omens,3Ri4H12KFyu98LMjSoij5V,spotify:artist:3Ri4H12KFyu98LMjSoij5V,https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V
+short_term,2,Sleep Token,2n2RSaZqBuUUukhbLlpnE6,spotify:artist:2n2RSaZqBuUUukhbLlpnE6,https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6
+short_term,3,Megan Thee Stallion,181bsRPaVXVlUKXrxwZfHK,spotify:artist:181bsRPaVXVlUKXrxwZfHK,https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK
+short_term,4,Ashnikko,3PyJHH2wyfQK3WZrk9rpmP,spotify:artist:3PyJHH2wyfQK3WZrk9rpmP,https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP
+short_term,5,Paramore,74XFHRwlV6OrjEM0A2NCMF,spotify:artist:74XFHRwlV6OrjEM0A2NCMF,https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF
+short_term,6,Cardi B,4kYSro6naA4h99UJvo89HB,spotify:artist:4kYSro6naA4h99UJvo89HB,https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB
+short_term,7,BOYS LIKE GIRLS,0vWCyXMrrvMlCcepuOJaGI,spotify:artist:0vWCyXMrrvMlCcepuOJaGI,https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI
+short_term,8,Evanescence,5nGIFgo0shDenQYSE0Sn7c,spotify:artist:5nGIFgo0shDenQYSE0Sn7c,https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c
+short_term,9,PierceTheSkies,3aJN1nL3j6SlzSwYti3bvq,spotify:artist:3aJN1nL3j6SlzSwYti3bvq,https://open.spotify.com/artist/3aJN1nL3j6SlzSwYti3bvq
+short_term,10,CORPSE,7yntSJ6uojO3z6GFUVwhAW,spotify:artist:7yntSJ6uojO3z6GFUVwhAW,https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW
+short_term,11,City Girls,37hAfseJWi0G3Scife12Il,spotify:artist:37hAfseJWi0G3Scife12Il,https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il
+medium_term,1,Sleep Token,2n2RSaZqBuUUukhbLlpnE6,spotify:artist:2n2RSaZqBuUUukhbLlpnE6,https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6
+medium_term,2,Bad Omens,3Ri4H12KFyu98LMjSoij5V,spotify:artist:3Ri4H12KFyu98LMjSoij5V,https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V
+medium_term,3,Paramore,74XFHRwlV6OrjEM0A2NCMF,spotify:artist:74XFHRwlV6OrjEM0A2NCMF,https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF
+medium_term,4,ConcernedApe,2PqkSKtPxs112KDZdRXGO2,spotify:artist:2PqkSKtPxs112KDZdRXGO2,https://open.spotify.com/artist/2PqkSKtPxs112KDZdRXGO2
+medium_term,5,BOYS LIKE GIRLS,0vWCyXMrrvMlCcepuOJaGI,spotify:artist:0vWCyXMrrvMlCcepuOJaGI,https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI
+medium_term,6,Fall Out Boy,4UXqAaa6dQYAk18Lv7PEgX,spotify:artist:4UXqAaa6dQYAk18Lv7PEgX,https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX
+medium_term,7,Avril Lavigne,0p4nmQO2msCgU4IF37Wi3j,spotify:artist:0p4nmQO2msCgU4IF37Wi3j,https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j
+medium_term,8,Evanescence,5nGIFgo0shDenQYSE0Sn7c,spotify:artist:5nGIFgo0shDenQYSE0Sn7c,https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c
+medium_term,9,Megan Thee Stallion,181bsRPaVXVlUKXrxwZfHK,spotify:artist:181bsRPaVXVlUKXrxwZfHK,https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK
+medium_term,10,Ashnikko,3PyJHH2wyfQK3WZrk9rpmP,spotify:artist:3PyJHH2wyfQK3WZrk9rpmP,https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP
+medium_term,11,Cardi B,4kYSro6naA4h99UJvo89HB,spotify:artist:4kYSro6naA4h99UJvo89HB,https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB
+medium_term,12,The All-American Rejects,3vAaWhdBR38Q02ohXqaNHT,spotify:artist:3vAaWhdBR38Q02ohXqaNHT,https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT
+medium_term,13,A Day To Remember,4NiJW4q9ichVqL1aUsgGAN,spotify:artist:4NiJW4q9ichVqL1aUsgGAN,https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN
+medium_term,14,PierceTheSkies,3aJN1nL3j6SlzSwYti3bvq,spotify:artist:3aJN1nL3j6SlzSwYti3bvq,https://open.spotify.com/artist/3aJN1nL3j6SlzSwYti3bvq
+medium_term,15,Panic! At The Disco,20JZFwl6HVl6yg8a4H3ZqK,spotify:artist:20JZFwl6HVl6yg8a4H3ZqK,https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK
+medium_term,16,CORPSE,7yntSJ6uojO3z6GFUVwhAW,spotify:artist:7yntSJ6uojO3z6GFUVwhAW,https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW
+medium_term,17,Arrows in Action,467o5z7PYxbXFAGA0mvhAQ,spotify:artist:467o5z7PYxbXFAGA0mvhAQ,https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ
+medium_term,18,The Home Team,0hp58JplihFjlLstUbKS0x,spotify:artist:0hp58JplihFjlLstUbKS0x,https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x
+medium_term,19,Forever The Sickest Kids,4frytKnOBrer4QVPWynGtX,spotify:artist:4frytKnOBrer4QVPWynGtX,https://open.spotify.com/artist/4frytKnOBrer4QVPWynGtX
+medium_term,20,Hayley Williams,6Rx1JKzBrSzoKQtmbVmBnM,spotify:artist:6Rx1JKzBrSzoKQtmbVmBnM,https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM
+medium_term,21,I DONT KNOW HOW BUT THEY FOUND ME,0Raaw7kr1Vzat4ZvHzjsJR,spotify:artist:0Raaw7kr1Vzat4ZvHzjsJR,https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR
+medium_term,22,Gorillaz,3AA28KZvwAUcZuOKwyblJQ,spotify:artist:3AA28KZvwAUcZuOKwyblJQ,https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ
+medium_term,23,Garbage,6S0GHTqz5sxK5f9HtLXn9q,spotify:artist:6S0GHTqz5sxK5f9HtLXn9q,https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q
+medium_term,24,Cute Is What We Aim For,7AsPubxWM5tfW4hTZEL3aP,spotify:artist:7AsPubxWM5tfW4hTZEL3aP,https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP
+medium_term,25,The Killers,0C0XlULifJtAgn6ZNCW2eu,spotify:artist:0C0XlULifJtAgn6ZNCW2eu,https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu
+medium_term,26,Alanis Morissette,6ogn9necmbUdCppmNnGOdi,spotify:artist:6ogn9necmbUdCppmNnGOdi,https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi
+medium_term,27,The Postal Service,5yV1qdnmxyIYiSFB02wpDj,spotify:artist:5yV1qdnmxyIYiSFB02wpDj,https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj
+medium_term,28,My Chemical Romance,7FBcuc1gsnv6Y1nwFtNRCb,spotify:artist:7FBcuc1gsnv6Y1nwFtNRCb,https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb
+medium_term,29,No Doubt,0cQbJU1aAzvbEmTuljWLlF,spotify:artist:0cQbJU1aAzvbEmTuljWLlF,https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF
+medium_term,30,Honey Revenge,1DHMgO3IIYSYPJ6CFyDYnK,spotify:artist:1DHMgO3IIYSYPJ6CFyDYnK,https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK
+medium_term,31,Olivia Rodrigo,1McMsnEElThX1knmY4oliG,spotify:artist:1McMsnEElThX1knmY4oliG,https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG
+medium_term,32,The Veronicas,1dIdBZaaHRW2bDTkHNfWln,spotify:artist:1dIdBZaaHRW2bDTkHNfWln,https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln
+medium_term,33,We The Kings,3ao3jf5d70Tf4fPh2bnXVl,spotify:artist:3ao3jf5d70Tf4fPh2bnXVl,https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl
+medium_term,34,All Time Low,46gyXjRIvN1NL1eCB8GBxo,spotify:artist:46gyXjRIvN1NL1eCB8GBxo,https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo
+medium_term,35,City Girls,37hAfseJWi0G3Scife12Il,spotify:artist:37hAfseJWi0G3Scife12Il,https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il
+medium_term,36,Chase Atlantic,7cYEt1pqMgXJdq00hAwVpT,spotify:artist:7cYEt1pqMgXJdq00hAwVpT,https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT
+long_term,1,Sleep Token,2n2RSaZqBuUUukhbLlpnE6,spotify:artist:2n2RSaZqBuUUukhbLlpnE6,https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6
+long_term,2,Bad Omens,3Ri4H12KFyu98LMjSoij5V,spotify:artist:3Ri4H12KFyu98LMjSoij5V,https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V
+long_term,3,Kidz Bop Kids,1Vvvx45Apu6dQqwuZQxtgW,spotify:artist:1Vvvx45Apu6dQqwuZQxtgW,https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW
+long_term,4,Ashnikko,3PyJHH2wyfQK3WZrk9rpmP,spotify:artist:3PyJHH2wyfQK3WZrk9rpmP,https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP
+long_term,5,Megan Thee Stallion,181bsRPaVXVlUKXrxwZfHK,spotify:artist:181bsRPaVXVlUKXrxwZfHK,https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK
+long_term,6,Loveless,1MP7xlABJ13LtmHfG77SCJ,spotify:artist:1MP7xlABJ13LtmHfG77SCJ,https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ
+long_term,7,Paramore,74XFHRwlV6OrjEM0A2NCMF,spotify:artist:74XFHRwlV6OrjEM0A2NCMF,https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF
+long_term,8,Vitamin String Quartet,6MERXsiRbur2oJZFgYRDKz,spotify:artist:6MERXsiRbur2oJZFgYRDKz,https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz
+long_term,9,Hozier,2FXC3k01G6Gw61bmprjgqS,spotify:artist:2FXC3k01G6Gw61bmprjgqS,https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS
+long_term,10,ConcernedApe,2PqkSKtPxs112KDZdRXGO2,spotify:artist:2PqkSKtPxs112KDZdRXGO2,https://open.spotify.com/artist/2PqkSKtPxs112KDZdRXGO2
+long_term,11,BOYS LIKE GIRLS,0vWCyXMrrvMlCcepuOJaGI,spotify:artist:0vWCyXMrrvMlCcepuOJaGI,https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI
+long_term,12,Fall Out Boy,4UXqAaa6dQYAk18Lv7PEgX,spotify:artist:4UXqAaa6dQYAk18Lv7PEgX,https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX
+long_term,13,Avril Lavigne,0p4nmQO2msCgU4IF37Wi3j,spotify:artist:0p4nmQO2msCgU4IF37Wi3j,https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j
+long_term,14,Selena Gomez,0C8ZW7ezQVs4URX5aX7Kqx,spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx,https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx
+long_term,15,CORPSE,7yntSJ6uojO3z6GFUVwhAW,spotify:artist:7yntSJ6uojO3z6GFUVwhAW,https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW
+long_term,16,Evanescence,5nGIFgo0shDenQYSE0Sn7c,spotify:artist:5nGIFgo0shDenQYSE0Sn7c,https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c
+long_term,17,Taylor Swift,06HL4z0CvFAxyc27GXpf02,spotify:artist:06HL4z0CvFAxyc27GXpf02,https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02
+long_term,18,Ella Langley,6BRxQ8cD3eqnrVj6WKDok8,spotify:artist:6BRxQ8cD3eqnrVj6WKDok8,https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8
+long_term,19,PierceTheSkies,3aJN1nL3j6SlzSwYti3bvq,spotify:artist:3aJN1nL3j6SlzSwYti3bvq,https://open.spotify.com/artist/3aJN1nL3j6SlzSwYti3bvq
+long_term,20,Scene Queen,6WandyxeDxlcOTwxtnTKP4,spotify:artist:6WandyxeDxlcOTwxtnTKP4,https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4
+long_term,21,Chappell Roan,7GlBOeep6PqTfFi59PTUUN,spotify:artist:7GlBOeep6PqTfFi59PTUUN,https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN
+long_term,22,Christophe Beck,1GjWNGbMtHDQ7CNYf2d7cw,spotify:artist:1GjWNGbMtHDQ7CNYf2d7cw,https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw
+long_term,23,Kristen Bell,2kHxkdiKCSnHMkhIgFBZaI,spotify:artist:2kHxkdiKCSnHMkhIgFBZaI,https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI
+long_term,24,The All-American Rejects,3vAaWhdBR38Q02ohXqaNHT,spotify:artist:3vAaWhdBR38Q02ohXqaNHT,https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT
+long_term,25,Dasha,7Ez6lTtSMjMf2YSYpukP1I,spotify:artist:7Ez6lTtSMjMf2YSYpukP1I,https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I
+long_term,26,Relaxicorn,1rKNZ77nshUJZa8ORmksAn,spotify:artist:1rKNZ77nshUJZa8ORmksAn,https://open.spotify.com/artist/1rKNZ77nshUJZa8ORmksAn
+long_term,27,Cardi B,4kYSro6naA4h99UJvo89HB,spotify:artist:4kYSro6naA4h99UJvo89HB,https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB
+long_term,28,Victoria Carbol,0iTQJBlivrGR1a0BxovZWy,spotify:artist:0iTQJBlivrGR1a0BxovZWy,https://open.spotify.com/artist/0iTQJBlivrGR1a0BxovZWy
+long_term,29,Falling In Reverse,2CmaKO2zEGJ1NWpS1yfVGz,spotify:artist:2CmaKO2zEGJ1NWpS1yfVGz,https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz
+long_term,30,Closed on Sunday,1LwjR2mIm78OJRTYdkMLl3,spotify:artist:1LwjR2mIm78OJRTYdkMLl3,https://open.spotify.com/artist/1LwjR2mIm78OJRTYdkMLl3
+long_term,31,Less Gravity,37gab2kHkQ8LnCRXYRPHxe,spotify:artist:37gab2kHkQ8LnCRXYRPHxe,https://open.spotify.com/artist/37gab2kHkQ8LnCRXYRPHxe
+long_term,32,Bryce Savage,3BKu8LEdOvfIVWXZlmJAGI,spotify:artist:3BKu8LEdOvfIVWXZlmJAGI,https://open.spotify.com/artist/3BKu8LEdOvfIVWXZlmJAGI
+long_term,33,T-Pain,3aQeKQSyrW4qWr35idm0cy,spotify:artist:3aQeKQSyrW4qWr35idm0cy,https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy
+long_term,34,KiNG MALA,5Lz5CnywFeg4Rs4l76OtG2,spotify:artist:5Lz5CnywFeg4Rs4l76OtG2,https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2
+long_term,35,Paris Paloma,2EXpthNgSeTDeX8nGwxppp,spotify:artist:2EXpthNgSeTDeX8nGwxppp,https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp
+long_term,36,A Day To Remember,4NiJW4q9ichVqL1aUsgGAN,spotify:artist:4NiJW4q9ichVqL1aUsgGAN,https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN
+long_term,37,Latto,3MdXrJWsbVzdn6fe5JYkSQ,spotify:artist:3MdXrJWsbVzdn6fe5JYkSQ,https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ
+long_term,38,The Lonely Island,1f5GqyOPo0CkotzzRwviBu,spotify:artist:1f5GqyOPo0CkotzzRwviBu,https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu
+long_term,39,cupcakKe,76SlrtEaq2oViRXulxjfuM,spotify:artist:76SlrtEaq2oViRXulxjfuM,https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM
+long_term,40,PalKid,0q9Ts8UgxT6USu2ElZgsqW,spotify:artist:0q9Ts8UgxT6USu2ElZgsqW,https://open.spotify.com/artist/0q9Ts8UgxT6USu2ElZgsqW
+long_term,41,Kris Bowers,2wWBoQpcybsDVpouFubTqZ,spotify:artist:2wWBoQpcybsDVpouFubTqZ,https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ
+long_term,42,Jutes,53fzjsJnjEKkA6TdncuIM4,spotify:artist:53fzjsJnjEKkA6TdncuIM4,https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4
+long_term,43,Bo Burnham,2Waw2sSbqvAwK8NwACNjVo,spotify:artist:2Waw2sSbqvAwK8NwACNjVo,https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo
+long_term,44,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,spotify:artist:6eUKZXaKkcviH0Ku9w2n3V,https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V
+long_term,45,Halsey,26VFTg2z8YR0cCuwLzESi2,spotify:artist:26VFTg2z8YR0cCuwLzESi2,https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2
+long_term,46,Austin Giorgio,2NhXno18MV9YbhVmr5QX11,spotify:artist:2NhXno18MV9YbhVmr5QX11,https://open.spotify.com/artist/2NhXno18MV9YbhVmr5QX11
+long_term,47,KenTheMan,6o4O5GX5kOWAGXtZUedxo3,spotify:artist:6o4O5GX5kOWAGXtZUedxo3,https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3
+long_term,48,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH,https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH
+long_term,49,Beedle The Bardcore,17Yevp6CsEKXIZvvZtUoDv,spotify:artist:17Yevp6CsEKXIZvvZtUoDv,https://open.spotify.com/artist/17Yevp6CsEKXIZvvZtUoDv
+long_term,50,3OH!3,0FWzNDaEu9jdgcYTbcOa4F,spotify:artist:0FWzNDaEu9jdgcYTbcOa4F,https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F

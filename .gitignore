@@ -17,3 +17,7 @@ __pycache__/
 # Spotify authentication cache
 .cache
 .cache-*
+
+# Raw personal Spotify data
+data/raw/*
+!data/raw/.gitkeep
